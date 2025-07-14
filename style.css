@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(14, 1, 1)
+    
+}
+
+.First{
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    margin-top: 100px;
+    font-family: libre Baskerville, serif;
+    
+
+}
+
+h2{
+    /* color: white; */
+    font-size: x-large;
+    color: white
+}
+
+p{
+    color: white;
+}
+
+.img1{
+    width: 100%;
+    border: 3px solid white ;
+    border-radius: 7px;
+}
+footer{
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+}
+
+span{
+    color: orange;
+}
